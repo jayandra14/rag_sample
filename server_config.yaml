@@ -1,0 +1,13 @@
+ollama:
+  base_url: http://localhost:11434
+
+embedding_model:
+  name: nomic-embed-text
+  dimensions: 768
+
+llm_model:
+  name: llama3.2:3b
+
+file_name:
+  faiss_idx: faissidx.bin
+  faiss_id_map: idx2docid.pkl
