@@ -4,3 +4,5 @@
 - Make sure conda is installed
 - Post that run the install.sh file
     - `bash install.sh`
+- Run the server
+    - `python server.py`
